@@ -13,6 +13,7 @@ public class TestPracticaArray {
 		array1.verArray1();
 		array1.eliminar();
 		array1.verArray1();
+		PracticaArray arra2 = new PracticaArray();
 		
 		
 		System.out.println("Busqueda secuencial, introduce el elemento a buscar.");
